@@ -8,7 +8,7 @@
 
 * [Caris HIPS and SIPS	by Teledyne](http://www.caris.com/products/hips-sips/)
 
-MBQA	mbsystem	
+* [MBQA by	mbsystem](https://www.mbari.org/products/research-software/mb-system/)	
 * [qps suite	Quality Positioning Services](http://www.qps.nl)
 
 * [LandMark Marine	by Applanix (a Trimble company)](https://www.applanix.com/products/landmark-marine.htm)
