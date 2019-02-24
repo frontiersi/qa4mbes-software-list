@@ -27,7 +27,7 @@
 
 * [LasTool by	Rapidlasso](https://rapidlasso.com/lastools/)
 
-* [QA4LiDAR by	FrontierSI (formerly CRCSI)	https://qa4lab.com/qa4lidar/
+* [QA4LiDAR by	FrontierSI (formerly CRCSI)](https://qa4lab.com/qa4lidar/)
 
 * [Beamworx products](https://www.beamworx.com/autopatch/)
 
