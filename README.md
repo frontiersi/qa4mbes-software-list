@@ -20,8 +20,6 @@
 
 * [QINSy	by QPS](http://www.qps.nl/display/qinsy/multibeam) - QINSy is an integrated navigation system software package used extensively worldwide for acquiring and processing multibeam data.
 
-* [Qimera 	by QPS](http://www.qps.nl/display/qimera/Home)
-
 * [Seafloor Information System Quality Assurance (SIS QA) by	Kongsberg](https://www.km.kongsberg.com/ks/web/nokbg0397.nsf/AllWeb/17A82CA49F3A8E6EC1257FE2002C6F48/$file/403644-sis-qa-product-sheet.pdf?OpenElement) - SIS QA 2.0 includes tools to detect errors in a dataset. it is used in post-processing of Kongsberg Maritime echo sounder data.
 
 * [LasTool by	Rapidlasso](https://rapidlasso.com/lastools/) -  It is a collection of highly efficient, batch-scriptable, multicore command line tools to classify, tile, convert, filter, raster, triangulate, contour, clip, and polygonize LiDAR data (to name just a few functions).
